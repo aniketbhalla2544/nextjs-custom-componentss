@@ -1,0 +1,117 @@
+[
+  {
+    "link": "/",
+    "select": [],
+    "title": "Home"
+  },
+  {
+    "link": "/product/tikka-t3t3x-gen2-billet-magazine-short-action-3-round",
+    "select": [
+      {
+        "link": "/product/tikka-t3t3x-gen2-billet-magazine-short-action-3-round",
+        "title": "action parts"
+      },
+      {
+        "link": "/product/tikka-t3t3x-gen2-billet-magazine-short-action-3-round",
+        "title": "barrels"
+      },
+      {
+        "link": "/product/tikka-t3t3x-gen2-billet-magazine-short-action-3-round",
+        "title": "bolt handles"
+      }
+    ],
+    "title": "tikka t3/tx"
+  },
+  {
+    "link": "/product/tikkat1x",
+    "select": [
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottommetal"
+      },
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottom metal"
+      },
+      {
+        "link": "/product/tikkat1x/rails",
+        "title": "rails"
+      }
+    ],
+    "title": "tikka t1x"
+  },
+  {
+    "link": "/product/tikkat1x",
+    "select": [
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottommetal"
+      },
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottom metal"
+      },
+      {
+        "link": "/product/tikkat1x/rails",
+        "title": "rails"
+      }
+    ],
+    "title": "tikka m595"
+  },
+  {
+    "link": "/product/tikkat1x",
+    "select": [
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottommetal"
+      },
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottom metal"
+      },
+      {
+        "link": "/product/tikkat1x/rails",
+        "title": "rails"
+      }
+    ],
+    "title": "tikka tac a1"
+  },
+  {
+    "link": "/product/tikkat1x",
+    "select": [
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottommetal"
+      },
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottom metal"
+      },
+      {
+        "link": "/product/tikkat1x/rails",
+        "title": "rails"
+      }
+    ],
+    "title": "info"
+  },
+  {
+    "link": "/product/tikkat1x",
+    "select": [
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottommetal"
+      },
+      {
+        "link": "/product/tikkat1x/bottommetal",
+        "title": "bottom metal"
+      },
+      {
+        "link": "/product/tikkat1x/rails",
+        "title": "rails"
+      }
+    ],
+    "title": "more"
+  }
+]
+
+
